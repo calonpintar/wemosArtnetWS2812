@@ -1,6 +1,7 @@
 /*
-  PIN OK: 5 (D1),  4 (D2), 0 (D3), 2 (D4)
+  2 universes & one wire
 */
+
 #define FASTLED_ESP8266_RAW_PIN_ORDER
 #include <ESP8266WiFi.h>
 #include <WiFiUdp.h>
