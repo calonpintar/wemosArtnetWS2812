@@ -1,9 +1,4 @@
-
-/*
-   Modified version from McNobby @ forum.arduino.cc - ArtNet to WS2812B controller - 2 Universes.
-   Tested on Universe 0 & 1 (Arena), Universe 1 & 2 (Madrix). 
-   Attach to pin D1 -> Universe 1 & D2 -> Universe 2. 
-*/
+//1 UNIVERSE to 1 pin
 
 
 #include <ESP8266WiFi.h>
